@@ -1,2 +1,2 @@
 # probnum
-Probabilistic numerics code hub for study group @UoL
+Probabilistic numerics codehub for study group @UoL
