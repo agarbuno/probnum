@@ -25,4 +25,4 @@ pip install numpy matplotlib
 
 That should get you started. After your environment is set, load a jupyter session within the directory of your cloned repo. 
 
-Any further customisations will be posted as needed. Any changes to the repository will be handled by forked clones of the original. 
+Any further customisations will be posted as needed. Any changes to the repository will be handled by `pull requests`.
